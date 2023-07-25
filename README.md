@@ -1,1 +1,1 @@
-[<img alt="Hello" width="846" src="https://github.com/dmitry-kostin/dmitry-kostin/assets/1920678/79afc9d3-9bff-41a8-aabe-11d6081b4431" />](https://iwooky.me)
+[![image](https://github.com/dmitry-kostin/dmitry-kostin/assets/1920678/5f9ba37e-1c98-4e48-bce3-20804b2b4afd)](https://iwooky.me)
